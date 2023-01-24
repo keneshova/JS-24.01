@@ -1,0 +1,10 @@
+let myName = "Nestan";
+let muCity = "Karacol";
+let myFavoriteActor = "Di Caprio";
+let myFavoriteColor = "beige";
+let myDad = "Nurlan";
+let myMom = "Kyial";
+let myFavoriteBook = "If Tomorrow Comes";
+let myFood = "Sushi";
+let myHobby = "Dance";
+let myAnimal = "Cat";
