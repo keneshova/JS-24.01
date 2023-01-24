@@ -39,3 +39,14 @@ let example17 = 15 === 5;
 let example18 = 17 >= 12;
 let example19 = 38 <= 56;
 let example20 = 22 !== 1;
+
+
+//let a = 5, b = 5, c = 5; -можно так
+
+let number = 3;
+if (number > 0) {
+  console.log("Число " + number + " положительное");
+}
+else if (number < 0) {
+  console.log("Число" + number + "отрицательное");
+}
